@@ -1,0 +1,11 @@
+addCapitalServices	addCapitalServices
+addHoldingGainsLosses	addHoldingGainsLosses
+calcPriceIndex	calcPriceIndex
+calcPriceIndexUsingAvgs	calcPriceIndexUsingAvgs
+convertCPToCVM	convertCPToCVM
+convertCVMToCP	convertCVMToCP
+OLDcalcPriceIndex	OLDcalcPriceIndex
+postProcess	postProcess
+preProcess	preProcess
+run	run
+runAll	runAll

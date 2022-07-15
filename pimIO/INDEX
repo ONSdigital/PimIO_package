@@ -1,0 +1,16 @@
+OLDcalcPriceIndex       Calculate Price Index OLD
+addCapitalServices      Calculate the capital services, both with user
+                        costs in CP and with mid period productive
+                        stock in reference year user cost prices. A
+                        by-product is the return to capital.
+addHoldingGainsLosses   Calculate nominal/real/neutral holding
+                        gains/losses
+calcPriceIndex          Calculate Price Index
+calcPriceIndexUsingAvgs
+                        Calculate Price Index using Averages
+convertCPToCVM          Convert Prices from CVM to CP
+convertCVMToCP          Convert Prices from CVM to CP
+postProcess             Post-process PIM results.
+preProcess              Pre-process Input Data.
+run                     Run PIM with pre and post processing.
+runAll                  Run all.
