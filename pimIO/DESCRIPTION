@@ -11,12 +11,13 @@ Description: The core functionality of the perpetual inventory method is
     postprocessing is performed on the outputs from the pim package.
     15-11-2018 Leigh P - method calcPriceIndex.R updated
 License: file LICENCE
-Imports: dplyr, pimir, assertr, doSNOW, doParallel, parallel, foreach
+Imports: dplyr (== 0.5.0), pimir, assertr, doSNOW, doParallel,
+        parallel, foreach
 LazyData: TRUE
 Suggests: testthat, knitr, rmarkdown
+RoxygenNote: 6.1.1
 VignetteBuilder: knitr
 Encoding: UTF-8
-RoxygenNote: 7.2.0
 Author: Adnan Fiaz [aut, cre]
 Maintainer: Adnan Fiaz <adnan.fiaz@ons.gov.uk>
-Built: R 4.2.1; ; 2022-07-19 14:48:57 UTC; windows
+Built: R 3.4.0; ; 2018-12-03 08:27:00 UTC; windows
